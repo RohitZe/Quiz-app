@@ -8,10 +8,9 @@ A modern, feature-rich quiz application built with React that delivers an engagi
 ## ✨ Key Features
 
 ### Core Technology Stack
-- **Frontend**: React 18 with TypeScript
+- **Frontend**: React 18 with javaScript
 - **Backend**: Express.js server for API proxy
 - **Styling**: Tailwind CSS for responsive design
-- **State Management**: React Context API
 - **Routing**: React Router v6 for seamless navigation
 
 ### Interactive Elements
@@ -26,7 +25,7 @@ A modern, feature-rich quiz application built with React that delivers an engagi
 - Timer-based challenges (30s per question)
 - Achievement badges for milestones
 - Progressive difficulty levels
-- Score multipliers for fast answers
+
 
 ### Performance Features
 - CORS-friendly API proxy implementation
